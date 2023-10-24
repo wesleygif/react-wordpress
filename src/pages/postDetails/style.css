@@ -1,0 +1,76 @@
+.detailsBox {
+    margin: 0 auto;
+    max-width: 1366px;
+}
+.detailsMain {
+    display: flex;
+    margin: 0 auto;
+    max-width: 1366px;
+    margin-bottom: 100px;
+}
+.informative,
+.course-information {
+    width: 757px;
+}
+
+.informative h1 {
+    color: #333;
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 25px;
+}
+
+.informative p {
+    margin-top: 32px;
+    color: #333;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 57px;
+}
+
+.course-information {
+    margin-top: 30px;
+}
+
+.course-information h3,
+.course-information h4 {
+    color: #333;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-bottom: 22px;
+}
+
+.detailsBoxMap {
+    margin-top: 32px;
+    display: flex;
+    margin-bottom: 65px;
+}
+.detailsBoxMap img,
+.detailsBoxMap p {
+    margin-right: 10px;
+    color: #00244D;
+    text-align: center;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.detailsTag {
+    display: flex;
+}
+.detailsTag-text {
+    border-radius: 10px;
+    border: 1px solid #D1D1D1;
+    background: #2A549F;
+    color: white;
+    padding: 4px 16px;
+    margin-right: 30px;
+    margin-bottom: 27px;
+}

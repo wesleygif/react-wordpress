@@ -1,0 +1,94 @@
+.homeBox {
+    margin: 0 auto;
+    max-width: 1366px;
+}
+
+.mainPost {
+    margin-top: 18px;
+    display: flex;
+}
+.mainPost #firtsImage {
+    width: 729px;
+    height: 418px;
+}
+
+.mainPost h1 {
+    margin-left: 60px;
+}
+.excerpt {
+    margin-left: 150px;
+    width: 420px;
+}
+
+.excerpt h2 {
+    margin-bottom: 30px;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.excerpt h3 {
+    color: var(--cor-preto-base, #333);
+    width: 373px;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 325;
+    line-height: normal;
+}
+
+.excerptData {
+    margin-bottom: 30px;
+    display: flex;
+}
+
+.excerptData p {
+    color: #000;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 325;
+    line-height: 130.7%;
+    margin-bottom: auto;
+    margin-top: auto;
+    margin-left: 6px;
+}
+
+.excerpt button {
+    margin-top: 72px;
+    border-radius: 4px;
+    background: #FCC530;
+    display: flex;
+    width: 375px;
+    padding: 16px 0px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+    color: #001834;
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.excerpt button:hover {
+    background: #9c7813;
+    color: aliceblue;
+}
+
+.homeBoxMap {
+    margin-top: 32px;
+    display: flex;
+    margin-bottom: 55px;
+}
+.homeBoxMap img,
+.homeBoxMap p {
+    margin-right: 10px;
+    color: #00244D;
+    text-align: center;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}

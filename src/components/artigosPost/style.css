@@ -1,0 +1,51 @@
+.artigoMain {
+    margin-top: 30px;
+}
+.artigoMain-resume {
+    margin-top: 157px;
+    margin-left: 40px;
+}
+.artigoMain h1 {
+    margin-bottom: 23px;
+}
+.artigoBox {
+    display: flex;
+}
+
+.artigoBox h2 {
+    color: #94A2AB;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-right: 22px;
+}
+
+.artigoBox-text h3 {
+    width: 320px;
+    margin-top: 10px;
+    color: #333;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 23px;
+}
+
+.artigoBox-text p {
+    width: 320px;
+    color: #333;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.artigoBox-text h4 {
+    margin-top: 16px;
+    color: #014898;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
